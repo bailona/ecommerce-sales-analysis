@@ -223,3 +223,22 @@ Senior QA Automation Engineer | SDET | Data Science & AI
 GitHub: https://github.com/bailona
 
 LinkedIn: https://www.linkedin.com/in/paulo-anderson-b-174127136/
+
+
+## Visualizations
+
+### Revenue by Product
+
+![Revenue by Product](reports/revenue_by_product.png)
+
+### Units Sold by Product
+
+![Units Sold by Product](reports/units_sold_by_product.png)
+
+### Price vs Units Sold
+
+![Price vs Units Sold](reports/price_vs_sales.png)
+
+### Revenue Distribution
+
+![Revenue Distribution](reports/revenue_distribution.png)
